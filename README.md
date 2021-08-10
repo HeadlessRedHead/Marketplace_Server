@@ -1,3 +1,3 @@
-# Strapi application
+# Server
 
-A quick description of your strapi application
+Backend para nuestra app
